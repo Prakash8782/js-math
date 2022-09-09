@@ -1,0 +1,9 @@
+h1{
+    font-family: Prakash7;
+    color: greenyellow;
+}
+ 
+@font-face {
+    font-family: Prakash7;
+    src: url(./Brewmaster\ Regular.otf);
+}
